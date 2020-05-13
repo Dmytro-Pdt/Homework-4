@@ -1,0 +1,43 @@
+body {
+    background-image: url(../img/bg.jpg);
+}
+.wrapper {
+    width: 1000px;
+    margin: 0 auto;
+    box-shadow: ;
+}
+.header {
+    background-color: #ffffff;
+}
+.header-nav {
+    float: right;
+}
+div.heaader-contacts > span {
+    display: block;
+    text-align: right;
+}
+ul.header-countries li {
+    display: inline-block;
+    margin-top: 35px;
+}
+.baner {
+    border-top: 1px solid ;
+    border-bottom: 1px solid ;
+}
+ul.nav-menue li {
+    display: inline-block;
+}
+.nav-menue {
+    background-color: #333333;
+
+}
+.nav-menue a{
+    color: white;
+}
+div.main > div {
+    float: left;
+    height: 545px;
+}
+.main-info,.main-news {
+
+}
