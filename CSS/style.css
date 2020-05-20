@@ -84,7 +84,7 @@ ul.nav-menue li {
     line-height: 27px;
     padding: 0px 13px 12px 12px;
     left: -13px;
-    top: 23px;
+    top: 18px;
 }
 li.has-sub {
     position: relative;
@@ -98,13 +98,6 @@ li.has-sub {
 }
 ul.sub-menue > li:hover {
     text-decoration: underline;
-}
-li.has-sub .services .partners::after {
-    width: 0;
-    height: 0;
-    border-style: solid;
-    border-width: 11px 4px 0 4px;
-    border-color: #ffffff transparent transparent transparent;
 }
 div.main {
     padding: 15px;
@@ -156,9 +149,12 @@ div.copyright {
     margin-top: 5px;
     margin-bottom: 5px;
 }
+div.copyright {
+    text-align: center;
+    width: 1000px;
+    margin: 0 auto;
+}
 div.copyright span {
     font-size: 14px;
-    position: absolute;
-    margin-left: 630px;
     color: white;
 }
